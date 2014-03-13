@@ -1,0 +1,97 @@
+
+/* Meta */
+body
+{
+width: 100%;
+margin: 0;
+}
+
+body{background-color: #EEEEEE;}
+/* Fin meta */
+
+/* Omnibar */
+#omnibar
+{	
+	opacity: 0.85;
+	height: 50px;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-color: #545454;
+}
+
+#connexion
+{
+	float: right;
+	width: 200px;
+	height: 100%;
+	background-color: #202020;
+	font-family: calibri;
+	font-size: 20px;
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+	transition: color 0.1s linear, background-color 0.1s linear;
+}
+
+#connexion:hover
+{
+	transition: color 0.1s linear, background-color 0.1s linear;
+	background-color: #303030;
+}
+
+#seconnecter{position: relative; top: 20%;}
+/* Fin Omnibar */
+
+/* Contenu */
+#contenu
+{
+margin-top: 80px;
+}
+
+h1
+{
+font-weight: none;
+text-align: center;
+font-family: calibri;
+font-size: 80px;
+}
+
+#Texte1
+{
+	text-align: justify;
+	float: left;
+	margin-left: 200px;
+	display: block;
+	width: 500px;
+	font-family: calibri;
+	font-size: 30px;
+	clear: both;
+}
+
+#Texte2
+{
+	text-align: justify;
+	float: right;
+	margin-right: 200px;
+	display: block;
+	width: 500px;
+	font-family: calibri;
+	font-size: 30px;
+	clear: both;
+}
+/* Fin contenu */
+
+/* Footer */
+#footer
+{
+float: left;
+margin-top: 80px;
+position: relative;
+left: 0px;
+width: 100%;
+height: 300px;
+background-color: #101010;
+}
+/* Fin footer */
