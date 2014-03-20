@@ -1,3 +1,5 @@
-Test pour voir !
+Ce Read Me sera là pour faire le point sur la progression au sein des travaux du projet PPP.
 
-Ca va dechhire
+maxhibari : remise du formulaire.
+Kaisow : remise de l'ébauche de la page d'accueil.
+Raptor : peauffinage de la base de donnée psql.
